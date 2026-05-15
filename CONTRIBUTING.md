@@ -98,8 +98,3 @@ There are several ways you can contribute to the BuildEstate project:
 | `frontend/` | React + TypeScript user site | 5173 |
 | `admin/` | React admin dashboard | 5174 |
 
-## Questions?
-
-Feel free to [open an issue](https://github.com/AAYUSH412/Real-Estate-Website/issues) or reach out at **aayushvaghela12@gmail.com**.
-
-Thank you for contributing to BuildEstate!
