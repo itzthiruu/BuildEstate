@@ -1,10 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:FB923C&height=220&section=header&text=BuildEstate&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI-Powered+Real+Estate+Platform&descAlignY=58&descSize=24" width="100%"/>
-
-<div align="center">
-
-  <img src="./frontend/Assets/Logo.svg" alt="BuildEstate Logo" height="80" />
-
-<br/><br/>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Find+Your+Dream+Home+%F0%9F%8F%A1;AI+Scrapes+99acres+in+Real-Time+%F0%9F%A4%96;Smart+Investment+Insights+%F0%9F%93%8A;30%2B+Indian+Cities+Covered+%F0%9F%87%AE%F0%9F%87%B3;Book+Appointments+Instantly+%F0%9F%93%85)](https://git.io/typing-svg)
 
